@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/spring/Scences/Yuquan Qu Scene.unity
     guid: 9fd73cf9f3798c84b9b3f44dd0c2b8de
   - enabled: 1
-    path: Assets/autumn/Scenes/game.unity
+    path: Assets/autumn Jiacheng Jing/Scenes/game.unity
     guid: ff76cb6c9771cc043ba4e983c5ef9c8b
   - enabled: 1
     path: Assets/winter  HengLin/Scenes/Winter Pack Example.unity
@@ -27,6 +27,6 @@ EditorBuildSettings:
     path: Assets/winter  HengLin/Scenes/Helps.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/autumn/Scenes/Help1.unity
+    path: Assets/autumn Jiacheng Jing/Scenes/Help1.unity
     guid: 5b38f72ba810c1a42871c577ba441518
   m_configObjects: {}
