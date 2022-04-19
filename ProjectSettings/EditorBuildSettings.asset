@@ -18,13 +18,13 @@ EditorBuildSettings:
     path: Assets/autumn/Scenes/game.unity
     guid: ff76cb6c9771cc043ba4e983c5ef9c8b
   - enabled: 1
-    path: Assets/winter/Scenes/Winter Pack Example.unity
+    path: Assets/winter  HengLin/Scenes/Winter Pack Example.unity
     guid: 27eeb9c5dbc74f540be5152153c71a7b
   - enabled: 1
     path: Assets/spring/Scences/Help.unity
     guid: 68710fae38162ca4fb5b9a7e7cb2020c
   - enabled: 1
-    path: Assets/winter/Scenes/Helps.unity
+    path: Assets/winter  HengLin/Scenes/Helps.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/autumn/Scenes/Help1.unity
